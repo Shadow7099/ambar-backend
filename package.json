@@ -1,0 +1,19 @@
+{
+  "name": "ambar-couture-backend",
+  "version": "1.0.0",
+  "description": "AMBAR Couture · Backend serverless para reservas y pagos",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
