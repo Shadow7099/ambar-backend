@@ -1,7 +1,7 @@
 {
   "name": "ambar-couture-backend",
   "version": "1.0.0",
-  "description": "AMBAR Couture · Backend serverless para reservas y pagos",
+  "description": "AMBAR Couture \u00b7 Backend serverless para reservas y pagos",
   "private": true,
   "scripts": {
     "dev": "vercel dev",
@@ -14,6 +14,6 @@
     "vercel": "^33.0.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
